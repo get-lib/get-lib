@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @get-lib
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-get-lib/get-lib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ฅ^•ﻌ•^ฅ 通宵写代码会喵化的全栈术士  
+✨ 技能树：屁歪の神/逆向炼金术/颜文字编译原理  
+🚨 警告：本账号不定期掉落【谜之commit】与【卖萌issue】  
